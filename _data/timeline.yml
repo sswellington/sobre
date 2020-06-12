@@ -5,57 +5,46 @@
 # > tags: List of tags you want to associate with the entry
 # > timeline-side: The side on which you want to display the entry: left or right
 
-# Example of a timeline entry
-# - title: airbnb
-#   title-url: https://example.com/
-#   date: Sep 2019 - Present
-#   subtitle: Fullstack Developer
-#   tags:
-#     - tag: React
-#     - tag: Javascript
-#     - tag: Ruby
-#     - tag: Rails
-#   timeline-side: right
+# - title: LNCC - MCTIC
+#  title-url: https://www.lncc.br/arquivoGeral/bolsas/posgrad/resultado_final_1_processo_seletivo_2020-PG%20LNCC.pdf
+#  date: 2020 - Presente
+#  subtitle: Mestrando em Modelagem Computacional
+#  timeline-side: left
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Universidade Estadual do Norte Fluminense
+  title-url: https://uenf.br/graduacao/administracao-publica/
+  date: 2019 - Presente
+  subtitle: Administração Pública
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+    - tag: Direito
+    - tag: Matemática Financeira
+    - tag: Administração Pública
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: PROAES
+  title-url: https://github.com/sswellington/2pla
+  date: 2017 - 2018
+  subtitle: Desenvolvedor - Bolsista 
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+  - tag: Matlab
+  - tag: Aprendizagem de Máquina
+  - tag: Processamento de Imagens
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+- title: CAPES
+  title-url: https://capes.gov.br/educacao-basica/capespibid/pibid
+  date: 2017 - 2017
+  subtitle: Professor - Bolsista 
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Universidade Federal Fluminense
+  title-url: http://infes.uff.br/aluno-do-infes-uff-e-pesquisadores-do-grupo-anoti-tem-trabalho-reconhecido-em-conferencia-internacional-aluno-wellington-de-souza-silva-do-curso-de-computacao-do-infes-uff-foi-premiado-como-finalist/
+  date: 2015 - 2019
+  subtitle: Computação
   timeline-side: left
+
+- title: Instituto Federal Fluminense
+  title-url: http://portal1.iff.edu.br/nossos-campi/campos-centro/cursos/tecnico-integrado/informatica/tecnico-em-informatica
+  date: 2014 - 2015
+  subtitle: Técnico em Informática
+  timeline-side: right

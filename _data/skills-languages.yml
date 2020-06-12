@@ -6,37 +6,40 @@
 #   weight: 5
 
 - name: TypeScript
-  weight: 5
+  weight: 2
 
 - name: JavaScript
-  weight: 4
+  weight: 2
 
 - name: Python
+  weight: 4
+
+- name: PHP
+  weight: 3
+
+- name: Pascal
+  weight: 3
+
+- name: Julia
   weight: 2
 
 - name: HTML5
-  weight: 4
+  weight: 5
 
 - name: CSS3
   weight: 3
 
 - name: SASS
-  weight: 3
+  weight: 1
 
 - name: Java
-  weight: 1
-
-- name: Dart
-  weight: 1
-
-- name: Swift
-  weight: 1
-
-- name: Kotlin
-  weight: 1
-
-- name: C++
   weight: 2
+
+- name: C
+  weight: 3
 
 - name: Ruby
-  weight: 2
+  weight: 1
+
+- name: Matlab
+  weight: 4

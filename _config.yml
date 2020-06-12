@@ -2,29 +2,35 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: Wellington Silva
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+#localhost
+# baseurl: ""
+# gh-pages
+url: "https://sswellington.github.io" 
+baseurl: "/sobre"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: Wellington Silva
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Bem-vindo
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: wellingtons@id.uff.br
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+github_username: sswellington
+# codepen_username: exampleUser
+# dev_username: exampleUser
+linkedin_username: sswellington
+twitter_username: __wellws__
+instagram_username: __wellws__
+blogger_username: blog
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -32,9 +38,9 @@ twitter_username: exampleUser
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
+about_me_title: Sobre
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: Pós-graduando em Arquitetura e Infraestrutura de Tecnologia da Informação pela Faculdade Futura do Grupo Educacional Faveni. Licenciado em Ciência da Computação, graduado pela Universidade Federal Fluminense (UFF). Aprovado no processo seletivo para ingresso no Instituto Federal de Educação, Ciência e Tecnologia Fluminense (IFF campus Campos-Centro) no ano de 2013. Participou do projeto de Iniciação Científica. Obteve artigo premiado como Finalist Paper in TCCLS Best Paper Award - Presented at the 2019 IEEE International Symposium on Computer-based Medical Systems (CBMS), IEEE Technical Commitee on Computational Life Sciences. Membro da Sociedade Brasileira de Computação desde de 2018. Membro do Grupo de Pesquisa ANOTi/INFES/UFF. Interesse na área de Processamento Digital de Imagens e Aprendizagem de Máquina.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -50,10 +56,10 @@ skills_title: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title: Educação & Experiência
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://example.com/
+cv_download_link: http://lattes.cnpq.br/9272070981915554
 
 # PROJECTS SECTION
 # show_projects_card:
@@ -65,13 +71,13 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: true
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects
+projects_title: Projetos
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
 show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Open Source Projects
+# os_projects_title: Open Source Projects
 
 # CONTACT SECTION
 # show_contact_card:
@@ -79,14 +85,13 @@ os_projects_title: Open Source Projects
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
+contact_title: Contato
 # contact_description: This will be displayed under the title.
-contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
-
+contact_description: Olá, espero por seu contato.
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: longpdo/neumorphism
+repository: sswellington/sswellington.github.io/sobre
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
@@ -110,7 +115,7 @@ projects:
 # Set the id, if you want to track your website with Google Analytics
 # > set this to "", if you do not want to track with Google Analytics
 google-analytics:
-  id: "UA-158757509-2"
+  id: "UA-161159158-1"
 
 ### END OF VALUES YOU SHOULD CHANGE ###
 
