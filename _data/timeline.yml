@@ -11,16 +11,6 @@
 #  subtitle: Mestrando em Modelagem Computacional
 #  timeline-side: left
 
-- title: Universidade Estadual do Norte Fluminense
-  title-url: https://uenf.br/graduacao/administracao-publica/
-  date: 2019 - Presente
-  subtitle: Administração Pública
-  tags:
-    - tag: Direito
-    - tag: Matemática Financeira
-    - tag: Administração Pública
-  timeline-side: right
-
 - title: PROAES
   title-url: https://github.com/sswellington/2pla
   date: 2017 - 2018
